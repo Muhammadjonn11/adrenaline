@@ -1,0 +1,119 @@
+ *{
+    padding: 0;
+    margin: 0;
+ }
+ 
+
+ul{
+    list-style-type: none;
+    margin: 9px;
+    padding: 0px;
+    background-color: rgb(253, 169, 0);
+    height: 100%;
+    overflow: auto ;
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow:  10px 10px 10px 5px rgb(147, 147, 147);  
+}
+
+li{
+    float: left ;
+}
+
+li a{
+    display: block;
+    color: rgb(249, 248, 237);
+    padding: 40px 50px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: rgb(255, 140, 0);
+    color: rgb(227, 235, 235);
+    transform: scale(1.2);
+   
+}
+.menyu1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.friend{
+    width: 150px;
+    height: 99px;
+   float: left;
+   box-shadow:  10px 10px 10px 5px rgb(147, 147, 147);
+   
+    
+
+}
+.rasmlavash{
+    
+    width: 250px;
+    height: 200px;
+    
+}
+.lavash{
+    border-radius: 10%;
+    box-shadow:  10px 10px 10px 5px rgb(147, 147, 147);
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    position: relative;
+    top: 17%;
+}
+
+.narxi{
+    color: red;
+}
+
+.zakasberish{
+    cursor: pointer;
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 189, 67);    
+}
+
+.burger{
+    box-shadow:  10px 10px 10px 10px rgb(147, 147, 147);
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10%;    
+}
+
+.rasmburger{
+    width: 250px;
+    height: 200px;
+}
+.tort{
+    box-shadow:  10px 10px 10px 5px rgb(147, 147, 147);
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    position: relative;
+    border-radius: 10%;
+    
+}
+
+.rasmtort{
+    width: 250px;
+    height: 200px;
+}
+
+.ichimlik{
+    box-shadow:  10px 10px 10px 5px rgb(147, 147, 147);
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    position: relative;
+    border-radius: 10%;
+}
+
+.rasmichimlik{
+    width: 250px;
+    height: 200px;
+}
+
+
